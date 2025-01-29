@@ -4,3 +4,4 @@ Vendor: Coder
 DisplayName: Coder
 ChartMetadata:
   kubeVersion:  '>=1.19-0'
+  coder_install_source: 'rancher_marketplace'
